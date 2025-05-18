@@ -2,6 +2,9 @@
 
 A modern food ordering system that leverages WhatsApp integration for a seamless user experience. This project allows users to browse menus, place orders, and receive notifications through WhatsApp.
 
+## 🎥 Demo Video
+Click to watch the demonstration video of project: [https://www.youtube.com/watch?v=50BWrFlF5W8](https://www.youtube.com/watch?v=50BWrFlF5W8)
+
 ## Overview
 
 This system consists of two main components:
@@ -96,4 +99,9 @@ TWILIO_WHATSAPP_FROM=xxxxxx
 WHATSAPP_WEBHOOK_URL=xxxxx
 STATUS_CALLBACK_URL=xxxxxx
 ```
+
+## Screenshots
+![whatsapp](https://github.com/user-attachments/assets/31e45116-f18c-4c91-b42f-106581a0d140)
+![frontend](https://github.com/user-attachments/assets/365db560-c396-4e58-8ef3-e524e8685437)
+![backend](https://github.com/user-attachments/assets/6a7cb0e9-94de-49b7-bb9c-5364a69a41b2)
 
